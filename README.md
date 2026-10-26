@@ -3,8 +3,7 @@ Meal Suggestion for anyone!
 Designed to provide a meal suggestion given any inputs!
 
 # Instructions 🚀
-Please write any preferences or needs that you would like to input.  
-Please write any preferences or needs that you would like to input.
+Enter moods, allergies, preferences, and desired health information into the chatbot to receieve personalized recipes and meal ideas that align with your current mood. The AI chatbot will only respond to food based inquiries. 
 
 # Project Structure
 These are the steps we took to complete our project on time.
