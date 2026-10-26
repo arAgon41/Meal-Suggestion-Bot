@@ -56,33 +56,37 @@ ___Includes ProcessDescriptionVerification.md
 
 ## Technical Writing
 
-___We clearly organized content (Title, headings, paragraphs, sentences, bullet points.)
+_✓__We clearly organized content (Title, headings, paragraphs, sentences, bullet points.)
 
-___We used strong topic sentences
+__✓_We used strong topic sentences
 
-___We wrote concisely and used language to guide reader through paragraph content
+_✓__We wrote concisely and used language to guide reader through paragraph content
 
-___We used active voice and action verbs
+_✓__We used active voice and action verbs
 
-___We labeled all figures and provided alt-text for all images.  
+__✓_We labeled all figures and provided alt-text for all images.  
 
  
 
 ## AI Use Verification
 
-___We verified all AI research
+We dd not use AI to write our prompts or while completing our project.
 
-___We verified all AI invention
+_✓__We verified all AI research
 
-___We verified all AI drafting
+_✓__We verified all AI invention
 
-___We verified all AI revisions
+_✓__We verified all AI drafting
+
+_✓__We verified all AI revisions
 
  
 
 # AI Use Documentation
 
 ****Create a list of all or the ways you used AI to create project assets. Share prompts
+
+We did not use AI to develop our AI chatbot, and to write our prompts or assets.
 
 AI use:
 
