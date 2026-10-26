@@ -13,7 +13,7 @@ Try to exclusively draw from the knowledge we provide you. Listen to the user's 
 
 ## Inputs and Outputs of Testing
 ### 1:
-#### "Hello"
+#### Hello
 ---
 Hello! I am your Nutritional Advisor.
 
@@ -29,7 +29,8 @@ How can I help you today? Please feel free to share:
 
 * Specific health goals or calorie/nutrient targets
 ---
-#### "a healthly snack for my picky child"
+#### A healthly snack for my picky child
+---
 #### 1. Hummus with Soft Dipping Veggies
 
 Commercial hummus served with mild, soft vegetable sticks like cucumber or soft-steamed carrot sticks is an easy, nutrient-dense choice. It provides healthy fats, fiber, and protein to keep energy steady.
