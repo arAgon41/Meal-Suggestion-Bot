@@ -36,21 +36,21 @@ ___Includes Project Presentation Directory (based on initial elevator pitch) inc
 
 to repository and chatbot.
 
-___Includes README.md – give users and collaborators important instructions, project
+_✓_Includes README.md – give users and collaborators important instructions, project
 
 history, version history, style sheet, etc.
 
-___Includes License.md
+_✓_Includes License.md
 
 ___Includes Inclusivity.md – facilitate a fair and equitable writing infrastructure.
 
-___Includes SystemMemory.md – List of system prompts and list of system files used
+_✓_Includes SystemMemory.md – List of system prompts and list of system files used
 
 to train the machine.
 
-___Includes SystemMemory Directory – include all files used to train machine
+_✓_Includes SystemMemory Directory – include all files used to train machine
 
-___Includes ProcessDescriptionVerification.md
+_✓_Includes ProcessDescriptionVerification.md
 
  
 
