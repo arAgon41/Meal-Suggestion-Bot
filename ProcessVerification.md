@@ -32,7 +32,7 @@ _✓_We each contributed one aspect of a product, system, or service
 
 ## Repository
 
-___Includes Project Presentation Directory (based on initial elevator pitch) include links
+_✓_Includes Project Presentation Directory (based on initial elevator pitch) include links
 
 to repository and chatbot.
 
