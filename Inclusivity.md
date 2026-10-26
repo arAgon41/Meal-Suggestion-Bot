@@ -4,7 +4,7 @@ facilitate a fair and equitable writing infrastructure
 
 # Inclusivity
 
-
+We held meetings during regular class hours on wednesday and the next monday to complete group work together. We also decided it was best to use this time to also share ideas with each other as we trained and tested the bot.
 
 | Group Member | Contribution / Role |
 | :--- | :--- |
