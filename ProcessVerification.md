@@ -42,7 +42,7 @@ history, version history, style sheet, etc.
 
 _✓_Includes License.md
 
-___Includes Inclusivity.md – facilitate a fair and equitable writing infrastructure.
+_✓_Includes Inclusivity.md – facilitate a fair and equitable writing infrastructure.
 
 _✓_Includes SystemMemory.md – List of system prompts and list of system files used
 
