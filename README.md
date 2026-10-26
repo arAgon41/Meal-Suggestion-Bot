@@ -1,7 +1,20 @@
-# Meal-Suggestion-Bot
-Please write any preferences or needs that you would like to input. We worked by adding elements piece by piece and completing our project. We created an AI chatbot and a Github repository. Then, we continued by adding each element, completing our project piece by piece. We made sure to test and revise to get to this version we worked on, and to have our AI Chatbot as we wanted.
-This AI chatbot can provide you with ideas for meals, recipes, and snacks that match the user's preference.
-The user can type their mood, desired health levels, and type of meal and it can provide any meal.
-The chatbot will not discuss non-food related inquries. It can listen to allergies and output accordingly. 
+# Meal-Suggestion-Bot 🤖
+Meal Suggestion for anyone! 
+Designed to provide a meal suggestion given any inputs!
+
+# Instructions 🚀
+Please write any preferences or needs that you would like to input.  
 Please write any preferences or needs that you would like to input.
 
+# Project Structure
+These are the steps we took to complete our project on time.
+* Brainstormed ideas to gather data
+* Completed UI/UX storyboard
+* Compiled Data to be machine readable
+* Created prompts
+* Trained Gemini Gem
+* Tested Gem using custom detailed prompts.
+* Updated Github Repository
+
+# Link 🔗
+Check out the [Gemini AI]([https://gemini.google.com](https://gemini.google.com/gem/1Z3v-5EIDXCRwLesXVcK87Dabhh5k9Aii?usp=sharing)) website for more details.
