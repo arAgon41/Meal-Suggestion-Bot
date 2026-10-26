@@ -9,7 +9,7 @@ We held meetings during regular class hours on wednesday and the next monday to 
 | Group Member | Contribution / Role |
 | :--- | :--- |
 | **Riswanth Haris Sundaresh Babu** | UX storyboard, finding usable food datasets, testing, training|
-| **Nergis Kurtbash** | Empathy Map, testing, slides design|
+| **Nergis Kurtbash** | Empathy Map, testing, UX storyboard, README.MD, slides design|
 | **Audrey Carlisle** | training, testing, README.MD |
 | **Caiden Martos** | Usergroups, finding usable food datasets, training, testing, README.MD |
 
