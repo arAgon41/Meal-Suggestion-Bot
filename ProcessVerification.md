@@ -4,29 +4,29 @@ Check all that apply:
 
 ## Teamwork
 
-___We were proactive
+_✓__We were proactive
 
-___We began with the end in mind
+__✓_We began with the end in mind
 
-___We put first things first
+__✓_We put first things first
 
-___We looked for win-wins
+__✓_We looked for win-wins
 
-___We sought first to understand, then be understood
+_✓__We sought first to understand, then be understood
 
-___We synergized
+_✓__We synergized
 
-___We sharpened the saw
+_✓__We sharpened the saw
 
  
 
-__We assigned team roles
+_✓_We assigned team roles
 
-__We assigned used a communication system (GitHub, Discord, etc.)
+_✓_We assigned used a communication system (GitHub, Discord, etc.)
 
-__We organized 2-3 scrums per week.
+_✓_We organized 2-3 scrums per week.
 
-__We each contributed one aspect of a product, system, or service
+_✓_We each contributed one aspect of a product, system, or service
 
  
 
