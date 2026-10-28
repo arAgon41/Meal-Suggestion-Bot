@@ -70,7 +70,7 @@ __✓_We labeled all figures and provided alt-text for all images.
 
 ## AI Use Verification
 
-We dd not use AI to write our prompts or while completing our project.
+We did not use AI to write our prompts or while completing our project.
 
 _✓__We verified all AI research
 
