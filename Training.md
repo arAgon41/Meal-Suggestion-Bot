@@ -251,7 +251,7 @@ Would you like more options tailored to a specific calorie goal, or are there pa
 
 
 ### Conversation 2:
-#### i am interesting in something sweet to have this morning for breakfast. However, I have health problems that mean I need a high sodium intake. I'm also allergic to oats. 
+#### I am interested in something sweet to have this morning for breakfast. However, I have health problems that mean I need a high sodium intake. I'm also allergic to oats. 
 
 ### Salted Caramel & Bacon French Toast
 
