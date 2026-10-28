@@ -17,7 +17,7 @@ These are the steps we took to complete our project on time.
 
 # Link 🔗
 Check out the [Gemini AI]([https://gemini.google.com](https://gemini.google.com/gem/1Z3v-5EIDXCRwLesXVcK87Dabhh5k9Aii?usp=sharing)) website for more details.
-
+https://gemini.google.com](https://gemini.google.com/gem/1Z3v-5EIDXCRwLesXVcK87Dabhh5k9Aii?usp=sharing 
 # Repository Structure 📂
 
 ```text
